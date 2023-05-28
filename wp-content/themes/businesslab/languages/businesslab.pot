@@ -1,0 +1,67 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BusinessLab\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-13 07:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.2\n"
+"X-Domain: businesslab"
+
+#. Name of the theme
+msgid "BusinessLab"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"BusinessLab is a sleek and modern WordPress theme designed specifically for "
+"business agencies, finance, consulting, factory, real estate, fashion, "
+"restaurants, construction, beauty salon, hospital, engineering, architecture,"
+" and corporate-related businesses. The theme features a clean and "
+"professional design that is both aesthetically pleasing and easy to navigate."
+" And this theme also provides unique designs with advanced customizer "
+"settings. It comes packed with powerful features for designing and "
+"customizing theme pages, advanced typography, sticky menu, header styles, "
+"logo upload, translation ready (WPML, Polylang), built with SEO in mind and "
+"it's built to be beautiful on all screen sizes. This theme supports the best "
+"Elementor page builder to create, edit, and update page designs as per the "
+"requirement. BusinessLab also supports popular free and premium WordPress "
+"plugins such as Elementor, Yoast SEO, WooCommerce, Contact Form 7, Jetpack, "
+"Google Analytics, and much more. Check the demo of BusinessLab Pro https:"
+"//themearile.com/aasta-pro-theme/."
+msgstr ""
+
+#: footer.php:14 inc/customizer/businesslab-customizer-options.php:17
+msgid ""
+"Copyright &copy; 2023 | Powered by <a href=\"//wordpress.org/\">WordPress</a>"
+" <span class=\"sep\"> | </span> BusinessLab theme by <a target=\"_blank\" "
+"href=\"//themearile.com/\">ThemeArile</a>"
+msgstr ""
+
+#: inc/customizer/businesslab-customizer-options.php:22
+msgid "Footer Copyright"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themearile.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://themearile.com/businesslab-theme/"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeArile"
+msgstr ""
+
+#: template-parts/site-navbar.php:12
+msgid "Toggle navigation"
+msgstr ""
